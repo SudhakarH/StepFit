@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590665827804",
+    "project_id": "stepfit-923df",
+    "storage_bucket": "stepfit-923df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590665827804:android:759d4a3c491027bdcc3b19",
+        "android_client_info": {
+          "package_name": "com.example.stepfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJKlEvJb3yOVUKp7yxmvBIaJt2FfahBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
