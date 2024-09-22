@@ -40,6 +40,17 @@ The **StepFit App** is a comprehensive Android fitness tracking application that
 ## Conclusion
 The StepFit app is designed to help users manage their fitness by offering a variety of features such as **step counting, stability checking**, and **BMI calculation**. The app uses sensor technology and **Firebase** for real-time data tracking and user management, with a user-friendly interface across different activities like **StepsActivity, GyroscopeActivity, BMICalculatorActivity**, and **ProfileActivity**.
 
+## Screenshots
+
+![Screenshot 2024-09-22 at 1 41 13 PM](https://github.com/user-attachments/assets/65e61258-98a4-40f5-87cd-bc9d737f8dd3)
+
+![Screenshot 2024-09-22 at 1 42 43 PM](https://github.com/user-attachments/assets/91735db9-c1a0-478a-a6f2-3194d874e339)
+
+![Screenshot 2024-09-22 at 1 43 02 PM](https://github.com/user-attachments/assets/f3f0bbe7-1570-4cf2-ac3b-c309402155ff)
+
+![Screenshot 2024-09-22 at 1 43 13 PM](https://github.com/user-attachments/assets/6c867bf2-0142-4e2d-a4a3-018bf8c79462)
+
+![Screenshot 2024-09-22 at 1 43 30 PM](https://github.com/user-attachments/assets/4c2fc45b-0aa7-4f80-ab26-971e3004f4b7)
 
 ## Special Notes
 - Users will be asked to provide permission to use sensors manually if it is not auto-granted.
